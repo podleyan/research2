@@ -1,0 +1,21 @@
+\babel@toc {czech}{}
+\babel@toc {american}{}
+\babel@toc {czech}{}
+\babel@toc {american}{}
+\babel@toc {czech}{}
+\babel@toc {american}{}
+\babel@toc {czech}{}
+\contentsline {chapter}{Úvod}{13}{}%
+\contentsline {chapter}{\numberline {1}Přípravná kapitola}{15}{}%
+\contentsline {section}{\numberline {1.1}Systém}{15}{}%
+\contentsline {section}{\numberline {1.2}Bayesovské odhadování parametrů}{17}{}%
+\contentsline {section}{\numberline {1.3}Kombinace prediktorů}{19}{}%
+\contentsline {section}{\numberline {1.4}Minimální expected relative entropy principle}{20}{}%
+\contentsline {chapter}{\numberline {2}Popis a řešení problému}{21}{}%
+\contentsline {section}{\numberline {2.1}Formulace a navrh řešení problému}{21}{}%
+\contentsline {section}{\numberline {2.2}Odhadování váhy důvěry}{21}{}%
+\contentsline {subsection}{\numberline {2.2.1}Odhadování konstantní váhy důvěry}{21}{}%
+\contentsline {subsection}{\numberline {2.2.2}Odhadování diskrétní váhy důvěry bez intervalu}{22}{}%
+\contentsline {subsection}{\numberline {2.2.3}Váha důvěry, která se mění z časem}{22}{}%
+\contentsline {chapter}{\numberline {3}Experimenty}{23}{}%
+\contentsline {chapter}{Záv\v {e}r}{25}{}%
